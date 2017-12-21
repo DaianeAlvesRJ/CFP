@@ -1,14 +1,10 @@
-# Call for Papers para meetups do PHPRio
+# O PHPRio 
 
-Repositório para sugestões de palestras, workshops e outras atividades da comunidade PHPRio.
+<p align="center">
+  <a href="https://github.com/DaianeAlvesRJ/cfp/issues/new?template=speaker_template.md"><img src="https://user-images.githubusercontent.com/753958/31695073-e7acfc00-b386-11e7-9fa0-26a133d56eaa.png" alt="Cadastrar Palestrante" width="177" /></a>&nbsp;
+  <a href="https://github.com/DaianeAlvesRJ/cfp/issues/new"><img src="https://user-images.githubusercontent.com/753958/31695094-19f445c4-b387-11e7-871a-0a08170911bf.png" alt="Cadastrar Palestra" width="160" /></a>
+</p>
 
-As propostas encontram-se nas [issues](https://github.com/PHPRio/cpf/issues/) do repositório. Utilize labels para o nível da palestra (iniciante, intermediário, avançado) e assunto (arquitetura, POO, testes, etc)
+# Seja um palestrante!
 
-## Quero palestrar
-* Abra uma [issue](https://github.com/PHPRio/cpf/issues/new) com o título e descrição da palestra
-
-## Quero sugerir uma palestra
-* Abra uma [issue](https://github.com/PHPRio/cpf/issues/new) com o título sugerido e na descrição cite qual conteúdo acha mais interessante
-
-## Quero contribuir mas não sei como
-* Vote e comente nas propostas, qualquer feedback é importante
+Abra uma issue com o título e descrição da palestra.  Utilize labels para o nível da palestra (iniciante, intermediário, avançado) e assunto (arquitetura, POO, testes, etc).
